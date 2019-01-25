@@ -82,3 +82,5 @@ Challenging:
   (http://docs.python.org/3/library/select.html) and attempt to write a second
   version of the echo server that can handle multiple client connections in
   "parallel".  You do not need to invoke threading of any kind to do this.
+
+I got most of my code from https://steelkiwi.com/blog/working-tcp-sockets/ to solve this
